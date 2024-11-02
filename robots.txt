@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyoteofa.github.io/Xat/sitemap_index.txt
+Sitemap: https://eyoteofa.github.io/ZHl/sitemap_index.txt
+Sitemap: https://eyoteofa.github.io/bmp/sitemap_index.txt
+Sitemap: https://eyoteofa.github.io/vfT/sitemap_index.txt
